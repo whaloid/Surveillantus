@@ -1,0 +1,10 @@
+{
+    "roleplay": "prompt.txt",
+    "question_example": "question_example.txt",
+    "discord_token": "tokenXXXXXXXXXXXXXXX",
+    "openai_api_key": "apikeyXXXXXXXXXXXXXXXXXXXXX",
+    "invitation_url": "https://discord.com/oauth2/authorize?client_id=1267002222299058298",
+    "endpoint": "https://endpointXXXXXXXXXXX",
+    "helpdoc": "helpdoc.txt",
+    "last_work_time": "2024-05-05 23:45:46"
+}
